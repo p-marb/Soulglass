@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# frontend build
+dist/
+build/
+
+# tauri / rust build
+src-tauri/target/
+
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# tauri generated/bundled stuff
+src-tauri/gen/
+src-tauri/.cargo/

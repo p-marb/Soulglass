@@ -1,0 +1,2 @@
+- show download speed for each album/song individually (in MB/s)
+- make minimized version of the player

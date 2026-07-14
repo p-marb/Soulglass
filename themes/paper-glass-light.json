@@ -1,0 +1,22 @@
+{
+  "name": "Paper Glass Light",
+  "type": "light",
+  "colors": {
+    "background": "#f3efe5",
+    "foreground": "#232018",
+    "muted": "#817a6c",
+    "accent": "#3b73ff",
+    "panel": "rgba(248,245,238,0.66)",
+    "border": "rgba(50,45,35,0.13)",
+    "editor": "rgba(255,252,246,0.56)",
+    "selection": "rgba(59,115,255,0.24)"
+  },
+  "glass": {
+    "enabled": true,
+    "material": "auto",
+    "opacity": 0.7,
+    "blur": 22,
+    "saturation": 1.18,
+    "noise": 0.025
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Milk Glass Dark",
+  "type": "dark",
+  "colors": {
+    "background": "#0d0d12",
+    "foreground": "#eeeae2",
+    "muted": "#9e9a91",
+    "accent": "#8fb8ff",
+    "panel": "rgba(22,22,30,0.62)",
+    "border": "rgba(255,255,255,0.14)",
+    "editor": "rgba(10,10,15,0.52)",
+    "selection": "rgba(143,184,255,0.28)"
+  },
+  "glass": {
+    "enabled": true,
+    "material": "auto",
+    "opacity": 0.68,
+    "blur": 26,
+    "saturation": 1.35,
+    "noise": 0.035
+  }
+}
